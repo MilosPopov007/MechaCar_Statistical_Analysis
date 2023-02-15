@@ -47,6 +47,10 @@ The p-value, or probability value, tells us the likelihood that we would see sim
 *  t-Test for Lot_3 produced p-value =  0.04168.  Our p-value is below our significance level. Therefore, we do have sufficient evidence to reject the null hypothesis, and we would state that the two means are not statistically similar.
 
 
+## Part 4: Study Comparing the MechaCar to the Competition
+
+
+
 
 
 
