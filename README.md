@@ -62,9 +62,9 @@ The p-value, or probability value, tells us the likelihood that we would see sim
 
 ## Part 4: Study Comparing the MechaCar to the Competition
 
-We can expand our findings using R, design a statistical study to compare the performance of the MechaCar vehicles against the performance of vehicles from other manufacturers.
+We can expand our findings using R, designing a statistical study to compare the performance of the MechaCar vehicles against the performance of vehicles from other manufacturers.
 *  Top Metrics of interest four consumers might be  cost, city or highway fuel efficiency, horse power, maintenance cost and safety rating.
-* As an example, we can test city and highway fuel efficiency, test will address the question whether the fuel efficiency of two samples from our core dataset is statistically different than our competition.
+* As an example, we can test city and highway fuel efficiency. Test will address the question whether the fuel efficiency of two samples from our core dataset is statistically different than our competition.
 * For this purpose we would use a two-sample t-Test. Two-sample t-Test is used to test the following hypotheses:
 
 H0 : There is no statistical difference between the two observed sample means.
