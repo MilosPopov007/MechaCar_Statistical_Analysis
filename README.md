@@ -50,7 +50,7 @@ The p-value, or probability value, tells us the likelihood that we would see sim
 
 *  t-Test for Lot_1 produced p-value = 1. Our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
 
-![This is an image](https://github.com/MilosPopov007/MechaCar_Statistical_Analysis/blob/main/t_test_lot1.png)
+![This is an image](https://github.com/MilosPopov007/MechaCar_Statistical_Analysis/blob/main/t_test_lot_1.png)
 
 * t-Test for Lot_2 produced p-value =  0.6072. Our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
 
