@@ -31,7 +31,7 @@ The MechaCar Suspension_Coil.csv dataset contains the results from multiple prod
 * The following PSI metrics for each lot: mean, median, variance, and standard deviation.
 
 
-* Current manufacturing data meet this design specification(suspension coils must not exceed 100 pounds per square inch) for all manufacturing lots in total, but not for individual Lot_3. There is definitely a problem with manufacturing Lot_3 that needs to be addressed.
+* Current manufacturing data meet this design specification (suspension coils must not exceed 100 pounds per square inch) for all manufacturing lots in total, but not for individual Lot_3. There is definitely a problem with manufacturing Lot_3 that needs to be addressed.
 
 
 
