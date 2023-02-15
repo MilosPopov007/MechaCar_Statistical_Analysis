@@ -46,12 +46,19 @@ The p-value, or probability value, tells us the likelihood that we would see sim
 
 * t-Test for all manufacturing lots produced p-value = 0.06028. Our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
 
+![This is an image](https://github.com/MilosPopov007/MechaCar_Statistical_Analysis/blob/main/t_test_total.png)
+
 *  t-Test for Lot_1 produced p-value = 1. Our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
+
+![This is an image](https://github.com/MilosPopov007/MechaCar_Statistical_Analysis/blob/main/t_test_lot1.png)
 
 * t-Test for Lot_2 produced p-value =  0.6072. Our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
 
+![This is an image](https://github.com/MilosPopov007/MechaCar_Statistical_Analysis/blob/main/t_test_lot2.png)
+
 *  t-Test for Lot_3 produced p-value =  0.04168.  Our p-value is below our significance level. Therefore, we do have sufficient evidence to reject the null hypothesis, and we would state that the two means are not statistically similar.
 
+![This is an image](https://github.com/MilosPopov007/MechaCar_Statistical_Analysis/blob/main/t_test_lot3.png)
 
 ## Part 4: Study Comparing the MechaCar to the Competition
 
