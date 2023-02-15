@@ -33,6 +33,20 @@ The MechaCar Suspension_Coil.csv dataset contains the results from multiple prod
 
 * Current manufacturing data meet this design specification ( variance of the suspension coils must not exceed 100 pounds per square inch ) for all manufacturing lots in total, but not for individual Lot_3. There is definitely a problem with manufacturing Lot_3 that needs to be addressed.
 
+## Part 3: T-Test on Suspension Coils
+
+Using the t.test() function in R I want to test the data to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.<br>
+The p-value, or probability value, tells us the likelihood that we would see similar results if we tested our data again, if the null hypothesis is true. Therefore, we use the p-value to provide quantitative evidence as to which of our hypotheses are true. To determine which hypothesis is most likely to be true, we compare the p-value against a significance level. A significance level (also denoted as alpha or ɑ) is a predetermined cutoff for our hypothesis test. When designing our hypothesis, we would determine the significance level based on the importance of our findings. In this Analysis, I will use a significance level of 0.05.
+
+* t-Test for all manufacturing lots produced p-value = 0.06028. Our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
+
+*  t-Test for Lot_1 produced p-value = 1. Our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
+
+* t-Test for Lot_2 produced p-value =  0.6072. Our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
+
+*  t-Test for Lot_3 produced p-value =  0.04168.  Our p-value is below our significance level. Therefore, we do have sufficient evidence to reject the null hypothesis, and we would state that the two means are not statistically similar.
+
+
 
 
 
