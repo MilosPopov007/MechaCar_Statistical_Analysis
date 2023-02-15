@@ -16,12 +16,20 @@ In this Data Analysis me and the data analytics team will do the following:
 
 ![This is an image](https://github.com/MilosPopov007/MechaCar_Statistical_Analysis/blob/main/car.png)
 
-##Part 1: Linear Regression to Predict MPG
+## Part 1: Linear Regression to Predict MPG
 
 The MechaCar_mpg.csv dataset contains mpg test results for 50 prototype MechaCars. The MechaCar prototypes were produced using multiple design specifications to identify ideal vehicle performance. Multiple metrics, such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance, were collected for each vehicle. Using R programming language , we design a linear model that predicts the mpg of MechaCar prototypes using several variables from the MechaCar_mpg.csv file. Perform Linear regression was performed using the lm() function and summary() function, determine the p-value and the r-squared value for the linear regression model
 
 * In the summary output, each Pr(>|t|) value represents the probability that each coefficient contributes a random amount of variance to the linear model. According to our results, vehicle_length, ground_clearance (as well as intercept) are statistically unlikely to provide random amounts of variance to the linear model. In other words vehicle_length, ground_clearance have a significant impact on MechaCar mpg prototypes.
-* Linear regression asks if we can predict values for variable A using a linear model and values from variable B. If there is no significant linear relationship, each dependent value would be determined by random chance and error. Therefore, our linear model would be a flat line with a slope of 0. To quantify how well our linear model can be used to predict future observations, our linear regression functions will calculate an r-squared value. Our Multiple R-squared:  0.7149, and the p-value of our linear regression analysis is p-value: 5.35e-11, which is much smaller than our assumed significance level of 0.05%. Therefore, we can state that there is sufficient evidence to reject our null hypothesis, which means that the slope of our linear model is not zero.
+* Linear regression asks if we can predict values for variable A using a linear model and values from variable B. If there is no significant linear relationship, each dependent value would be determined by random chance and error. Therefore, our linear model would be a flat line with a slope of 0. To quantify how well our linear model can be used to predict future observations, our linear regression functions will calculate an r-squared value(Our Multiple R-squared:  0.7149). The p-value of our linear regression analysis is (p-value: 5.35e-11), which is much smaller than our assumed significance level of 0.05%. Therefore, we can state that there is sufficient evidence to reject our null hypothesis, which means that the slope of our linear model is not zero.
 * From our linear regression model,  Multiple R-squared:  0.7149, which means that roughly 71 % of all mpg predictions will be correct when using this linear model.
+
+## Part 2: Summary Statistics on Suspension Coils
+
+The MechaCar Suspension_Coil.csv dataset contains the results from multiple production lots. In this dataset, the weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across production lots.<br>The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.<br> In R I created a summary statistics table to show:
+* The suspension coil’s PSI continuous variable across all manufacturing lots.
+* The following PSI metrics for each lot: mean, median, variance, and standard deviation.
+
+
 
 
