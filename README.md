@@ -67,7 +67,7 @@ We can expand our findings using R, designing a statistical study to compare the
 * As an example, we can test city and highway fuel efficiency. Test will address the question whether the fuel efficiency of two samples from our core dataset is statistically different than our competition.
 * For this purpose we would use a two-sample t-Test. Two-sample t-Test is used to test the following hypotheses:
 
-H0 : There is no statistical difference between the two observed sample means.
+H0 : There is no statistical difference between the two observed sample means.<br>
 Ha : There is a statistical difference between the two observed sample means.
 * To have a successful two-sample t-Test we must insure that our data is:
 Numerical and continuous
