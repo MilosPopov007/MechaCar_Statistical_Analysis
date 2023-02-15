@@ -37,7 +37,7 @@ The MechaCar Suspension_Coil.csv dataset contains the results from multiple prod
 
 ![This is an image](https://github.com/MilosPopov007/MechaCar_Statistical_Analysis/blob/main/PSI_stat.png)
 
-![This is an image](
+![This is an image](https://github.com/MilosPopov007/MechaCar_Statistical_Analysis/blob/main/Lots_PSI.png)
 
 ## Part 3: T-Test on Suspension Coils
 
