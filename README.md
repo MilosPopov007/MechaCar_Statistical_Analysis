@@ -6,7 +6,7 @@ AutosRUs is a car manufacturing commpany that is finally realizing that their de
 
 AutosRUs’ newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing team’s progress.<br> AutosRUs’ upper management has called on me and the data analytics team to review the production data for insights that may help the manufacturing team.
 
-We will use R programming language in this Data Analysis.<br> R has solidified itself in academia and industry as one of the go-to programming languages for statistical modelling and hypothesis testing.<br> In recent years, R developers have extended R's capabilities to generate machine learning algorithms and other advanced models to ensure that R can be used in every stage of data analytics.<br>
+We will use [R programming language](https://github.com/MilosPopov007/MechaCar_Statistical_Analysis/blob/main/MechaCarChallenge.RScript.R) in this Data Analysis.<br> R has solidified itself in academia and industry as one of the go-to programming languages for statistical modelling and hypothesis testing.<br> In recent years, R developers have extended R's capabilities to generate machine learning algorithms and other advanced models to ensure that R can be used in every stage of data analytics.<br>
 
 In this Data Analysis me and the data analytics team will do the following:
 * Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
