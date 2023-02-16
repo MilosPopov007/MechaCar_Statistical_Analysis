@@ -70,6 +70,7 @@ We can expand our findings using R, designing a statistical study to compare the
 H0 : There is no statistical difference between the two observed sample means.<br>
 Ha : There is a statistical difference between the two observed sample means.
 * To have a successful two-sample t-Test we must insure that our data is:<br>
+
 Numerical and continuous<br>
 Each sample data was selected randomly from the population data<br>
 The input data is considered to be normally distributed<br>
